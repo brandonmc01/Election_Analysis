@@ -37,4 +37,5 @@ In this project, our final Python script will deliver the following information:
 	* Raymon Anthony Doane received 11,606 votes or 3.1% of the total
 
 * Diana DeGette won this election by receiving 272,892 votes which equated to 73.8% of the total
+
 ![Election Analysis Results](/Resources/Election_Results.png)
